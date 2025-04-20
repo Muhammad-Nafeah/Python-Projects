@@ -1,0 +1,3 @@
+Harry Potter,JK rowling,2000,magic,read
+clean code,robert c. martin,2003,programming,unread
+Atomic Habits,James Clear,2005,Self-help,unread
